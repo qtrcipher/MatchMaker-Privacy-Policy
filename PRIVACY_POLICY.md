@@ -1,16 +1,16 @@
-# Privacy Policy for MatchMaker
+# Privacy Policy for MatchMaker Pro
 
 Effective date: May 18, 2026
 
-MatchMaker ("we", "our", or "us") operates the MatchMaker iOS application. This Privacy Policy explains how we collect, use, disclose, and protect information when you use the app.
+MatchMaker Pro ("we", "our", or "us") operates the MatchMaker Pro iOS application. This Privacy Policy explains how we collect, use, disclose, and protect information when you use the app.
 
 If you have questions about this Privacy Policy, contact us at:
 
 dev.hamam@gmail.com
 
-## 1. What MatchMaker Does
+## 1. What MatchMaker Pro Does
 
-MatchMaker is a bilingual Arabic/English app for professional matchmakers and people looking for marriage. Matchmakers can manage matrimonial client profiles. People looking for marriage can sign in with Apple and browse available profiles without a paid subscription.
+MatchMaker Pro is a bilingual Arabic/English app for professional matchmakers and people looking for marriage. Matchmakers can manage matrimonial client profiles. People looking for marriage can sign in with Apple and browse available profiles without a paid subscription.
 
 ## 2. Information We Collect
 
@@ -146,11 +146,11 @@ To make a privacy request, contact us at dev.hamam@gmail.com. We may need to ver
 
 ## 8. Children's Privacy
 
-MatchMaker is intended for adults. The app is not directed to children under 13, and it is not intended for anyone below the legal age required to use matrimonial or marriage-related services in their location. If you believe a child has provided information through the app, contact us at dev.hamam@gmail.com.
+MatchMaker Pro is intended for adults. The app is not directed to children under 13, and it is not intended for anyone below the legal age required to use matrimonial or marriage-related services in their location. If you believe a child has provided information through the app, contact us at dev.hamam@gmail.com.
 
 ## 9. International Users
 
-MatchMaker may be used by people in different countries. By using the app, you understand that your information may be processed in countries where our service providers operate, which may have privacy laws different from those in your country.
+MatchMaker Pro may be used by people in different countries. By using the app, you understand that your information may be processed in countries where our service providers operate, which may have privacy laws different from those in your country.
 
 ## 10. Third-Party Services
 
@@ -172,4 +172,3 @@ We may update this Privacy Policy from time to time. If we make material changes
 For privacy questions, requests, or concerns, contact:
 
 dev.hamam@gmail.com
-
