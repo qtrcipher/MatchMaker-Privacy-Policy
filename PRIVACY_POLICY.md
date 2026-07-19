@@ -6,7 +6,7 @@ MatchMaker Pro ("we", "our", or "us") operates the MatchMaker Pro iOS applicatio
 
 If you have questions about this Privacy Policy, contact us at:
 
-dev.hamam@gmail.com
+hamam@gccapp.com
 
 ## 1. What MatchMaker Pro Does
 
@@ -142,11 +142,11 @@ Depending on your location, you may have rights to:
 - Object to or restrict certain processing.
 - Withdraw advertising or tracking consent where applicable.
 
-To make a privacy request, contact us at dev.hamam@gmail.com. We may need to verify your identity before completing a request.
+To make a privacy request, contact us at hamam@gccapp.com. We may need to verify your identity before completing a request.
 
 ## 8. Children's Privacy
 
-MatchMaker Pro is intended for adults. The app is not directed to children under 13, and it is not intended for anyone below the legal age required to use matrimonial or marriage-related services in their location. If you believe a child has provided information through the app, contact us at dev.hamam@gmail.com.
+MatchMaker Pro is intended for adults. The app is not directed to children under 13, and it is not intended for anyone below the legal age required to use matrimonial or marriage-related services in their location. If you believe a child has provided information through the app, contact us at hamam@gccapp.com.
 
 ## 9. International Users
 
@@ -171,4 +171,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 For privacy questions, requests, or concerns, contact:
 
-dev.hamam@gmail.com
+hamam@gccapp.com
